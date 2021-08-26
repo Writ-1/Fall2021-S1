@@ -96,7 +96,7 @@ Re-read the podcast transcript and perform a detailed second-pass reading. Annot
 
 #### Discussion questions
 
-After annotating and before class on Monday, think of aspects of the case study that you'd like to discuss with others. As with the previous readings, a good place to start is with the main ideas:
+After annotating and before class this week, think of aspects of the case study that you'd like to discuss with others. As with the previous readings, a good place to start is with the main ideas:
 
 + In your own words, summarize the events in the case study.
 
@@ -112,6 +112,6 @@ After annotating and before class on Monday, think of aspects of the case study 
 
 + What are ways that the case study connects to Kahan? Find specific textual evidence from both to support the connection.
 
-**These last two questions will seed our discussion on Monday. Please prepare typed answers to them so you can easily collaborate with your classmates (you will copy-paste these answers into a shared Google Doc, so please have them ready).**
+**These last two questions will seed our discussion this week. Please prepare typed answers to them so you can easily collaborate with your classmates (you will copy-paste these answers into a shared Google Doc, so please have them ready).**
 
 + (optional) What are ways that the case study connects to Peters? Find specific textual evidence from both to support the connection.

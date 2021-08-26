@@ -55,7 +55,7 @@ Re-read ["My Facts Are Better Than Your Facts"](https://drive.google.com/file/d/
 
 #### Discussion questions
 
-After annotating and before class on Monday, think of aspects of Oreskes work that you'd like to discuss with others. As with the previous readings, a good place to start is with the main ideas:
+After annotating and before class this week, think of aspects of Oreskes work that you'd like to discuss with others. As with the previous readings, a good place to start is with the main ideas:
 
 + In your own words, summarize the problem that Oreskes is trying to address.
 
@@ -68,6 +68,6 @@ After annotating and before class on Monday, think of aspects of Oreskes work th
 + What are ways that Oreskes connects to Figdor? Find specific textual evidence from both to support the connection.
 
 
-**These last two questions will seed our discussion on Monday. Please prepare typed answers to them so you can easily collaborate with your classmates (you will copy-paste these answers into a shared Google Doc, so please have them ready).**
+**These last two questions will seed our discussion this week. Please prepare typed answers to them so you can easily collaborate with your classmates (you will copy-paste these answers into a shared Google Doc, so please have them ready).**
 
 
