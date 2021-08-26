@@ -13,6 +13,7 @@ Sun Sep 5 | - [Case study reading guide](case-study-overview.md){:target="_blank
 
 
 ### Week 2
+
 Date       | Due Outside Class | In-Class Activities 
 -----------|-------------------|-------------------
 Mon Sep 6  |                   | Labor Day - No Class
