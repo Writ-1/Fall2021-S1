@@ -21,7 +21,7 @@ Date       | Due Outside Class | In-Class Activities
 -----------|-------------------|-------------------
 Mon Sep 6  |                   | Labor Day - No Class
 Wed Sep 8  | - prepare discussion questions on chose case study (due 8am) <br> - read [Williams 7](https://drive.google.com/file/d/195EL7_8T0_lddh0VUqRY8ZqYlDP3tVYG/view?usp=sharing){:target="_blank"} (due 8am) <br> - read [Williams 8](https://drive.google.com/file/d/1JVTSifHnGMIEXAofUeT48Q0YxMbN7ds1/view?usp=sharing){:target="_blank"} (due 8am) |  - case study discussion <br> [Group 1: Climate Change](https://docs.google.com/document/d/1g7Ugo9kbUqVEpyoYB7dY00BVJo5k9lhEAXT8F1hWTWQ/edit?usp=sharing){:target="_blank"} <br> [Group 2: Food and Brand Lab](https://docs.google.com/document/d/1wkEYsPxNkjqe11-Jos3VO7gv3b0xKVf1QNlr0v7V0vM/edit?usp=sharing){:target="_blank"} <br> [Group 3: Shrimp Fight Club](https://docs.google.com/document/d/1kUqBI9C2xDWfCwB9j_GLNUybJBrcOKIIeZdwLpc8R38/edit?usp=sharing){:target="_blank} <br> <br> - [Lesson on thesis development](https://drive.google.com/file/d/1prERJ8G0e3PxepTznCcUKInpG6PM7t6f/view?usp=sharing){:target="_blank"} <br> 
-Fri Sep 10 | - complete [Problem Statement/Thesis assignment](https://drive.google.com/file/d/1FVLPM5gJgb6qfJhDrOGD7P7dppSecQjc/view?usp=sharing){:target="_blank"} <br> - read the [Main essay prompt](https://drive.google.com/file/d/1C8y99PBMEkX5MU0RmiZu4O7OyM5kCflG/view?usp=sharing){:target="_blank"} | - [thesis workshop activity](https://docs.google.com/document/d/1EXsiJWKJqJJCP9tb1uPbEsE9-acGCRm2nX5bvYW7Hbo/edit?usp=sharing){:target="_blank"} <br> - introduce [evidentiary outlines](https://docs.google.com/document/d/1hmgJQ9CMSHIUfhx4zpkAF9I3-zUXi-mq/edit?usp=sharing&ouid=117002842337913012603&rtpof=true&sd=true){:tareget="_blank"}
+Fri Sep 10 | - read the [Main essay prompt](https://drive.google.com/file/d/1C8y99PBMEkX5MU0RmiZu4O7OyM5kCflG/view?usp=sharing){:target="_blank"} (do this first) <br> - complete [Problem Statement/Thesis assignment](https://drive.google.com/file/d/1FVLPM5gJgb6qfJhDrOGD7P7dppSecQjc/view?usp=sharing){:target="_blank"} (due 8am) | - [thesis workshop activity](https://docs.google.com/document/d/1EXsiJWKJqJJCP9tb1uPbEsE9-acGCRm2nX5bvYW7Hbo/edit?usp=sharing){:target="_blank"} <br> - introduce [evidentiary outlines](https://docs.google.com/document/d/1hmgJQ9CMSHIUfhx4zpkAF9I3-zUXi-mq/edit?usp=sharing&ouid=117002842337913012603&rtpof=true&sd=true){:tareget="_blank"}
 Sun Sep 12 | - complete [evidentiary outline assignment](https://docs.google.com/document/d/1hmgJQ9CMSHIUfhx4zpkAF9I3-zUXi-mq/edit?usp=sharing&ouid=117002842337913012603&rtpof=true&sd=true){:tareget="_blank"} (due 5pm) |
 
 
@@ -29,4 +29,13 @@ Sun Sep 12 | - complete [evidentiary outline assignment](https://docs.google.com
 <hr style="color:black;background-color:#EAAA00;height:5px">
 <br>
 
+### Week 3
+
+Date       | Due Outside Class | In-Class Activities 
+-----------|-------------------|-------------------
+Mon Sep 13 |                    | - quickwrite 4 <br> - class discussion of readings
+Wed Sep 15 | -Williams 3 & 4 exercises (due 8am) <br> - evidence & analysis lesson (due 8am)    | - lesson on structure, intros, conclusions, thesis, evidence, analysis <br> - paper dissection activity
+Fri Sep 17 | - revised intro/thesis/outline (due 8am)                   | - workshop/peer review revised intro/thesis/outline <br> - sign up for conferences for next week
+Sat Sep 18 | - deadline to visit the writing center (due 5pm)                |
+Sun Sep 19 | - main essay draft (due 5pm)                  |
 
