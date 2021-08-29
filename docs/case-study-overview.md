@@ -1,6 +1,6 @@
 # Case study overview
 
-**Due Sunday October 18, 9pm PT**
+**Due Sunday September 5, 5pm**
 
 There are three case studies that we will be examining using the lens of our framing pieces. In your assignment this weekend which will take 3-4 hours total, we would first like you to spend about 30 minutes on each case study getting context and doing a first-pass reading of the materials. We recommend that you set a timer, so you don't accidentally spend too long on one case study over another.
 
