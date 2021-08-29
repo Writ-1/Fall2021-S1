@@ -22,7 +22,7 @@
 
 ## Case Studies
 
-- [Case study overview](case-study-overview) (Due Sunday September 5, 5pm){:target="_blank"}
+- [Case study overview](case-study-overview){:target="_blank"} (Due Sunday September 5, 5pm)
 
 
 
