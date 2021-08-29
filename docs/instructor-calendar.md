@@ -33,9 +33,9 @@ Sun Sep 12 | - complete [evidentiary outline assignment](https://docs.google.com
 
 Date       | Due Outside Class | In-Class Activities 
 -----------|-------------------|-------------------
-Mon Sep 13 |                    | - quickwrite 4 <br> - class discussion of readings
-Wed Sep 15 | -Williams 3 & 4 exercises (due 8am) <br> - evidence & analysis lesson (due 8am)    | - lesson on structure, intros, conclusions, thesis, evidence, analysis <br> - paper dissection activity
-Fri Sep 17 | - revised intro/thesis/outline (due 8am)                   | - workshop/peer review revised intro/thesis/outline <br> - sign up for conferences for next week
+Mon Sep 13 |                    | - [quickwrite 4](quickwrite-4){:target="_blank"} <br> - class discussion of readings
+Wed Sep 15 | - [Williams 3 & 4 exercises](https://drive.google.com/file/d/1p8PSuRQIDROxHc2tvOccEiJlwTbPg5z6/view?usp=sharing){:target="_blank"} (due 8am) <br> - read ["How Texas Teaches History"](https://www.nytimes.com/2015/10/22/opinion/how-texas-teaches-history.html?_r=2){:target="_blank"} <br> - [evidence & analysis lesson](evidence-and-analysis){:target="_blank"} (due 8am)    | - lesson on structure, intros, conclusions, thesis, evidence, analysis <br> - [paper dissection activity](https://drive.google.com/drive/folders/14RBxLGuFhymsaof_7GtqLjuq0CJOkYps?usp=sharing){:target="_blank"}
+Fri Sep 17 | - revised intro/thesis/outline (due 8am)                   | - [workshop/peer review revised intro/thesis/outline](https://drive.google.com/drive/folders/1Zix-QerpvFzUtZrmMIodxqYHQLNRLcGU?usp=sharing){:target="_blank"} <br> - sign up for conferences for next week based on your grading group <br> [Prof. Esin](https://calendar.google.com/calendar/selfsched?sstoken=UUQ3VGNIY0NmVmROfGRlZmF1bHR8OTdlNGNiMGZhY2E0YTg0M2Y4M2NhZDQzNTRhOGU2NjU){:target="_blank"} OR [Prof. Ilton](https://calendar.google.com/calendar/selfsched?sstoken=UUNveWstTXNRSTVwfGRlZmF1bHR8ZmY1MDkyZTFiODRjZmE5ZjQ5MDkyYmM1OWE5ZDVmZmY)
 Sat Sep 18 | - deadline to visit the writing center (due 5pm)                |
-Sun Sep 19 | - main essay draft (due 5pm)                  |
+Sun Sep 19 | - submit main essay draft to Sakai Dropbox (due 5pm)                  |
 
