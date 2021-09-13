@@ -32,15 +32,9 @@ Sun Sep 12 | - complete [evidentiary outline assignment](https://docs.google.com
 
 Date       | Due Outside Class | In-Class Activities 
 -----------|-------------------|-------------------
-Mon Sep 13 |                    | - [quickwrite 4](quickwrite-4){:target="_blank"} <br> - class discussion of readings
-Wed Sep 15 | - [Williams 3 & 4 exercises](https://drive.google.com/file/d/1p8PSuRQIDROxHc2tvOccEiJlwTbPg5z6/view?usp=sharing){:target="_blank"} (due 8am) <br> - read ["How Texas Teaches History"](https://www.nytimes.com/2015/10/22/opinion/how-texas-teaches-history.html?_r=2){:target="_blank"} <br> - [evidence & analysis lesson](evidence-and-analysis){:target="_blank"} (due 8am)    | - lesson on structure, intros, conclusions, thesis, evidence, analysis <br> - [paper dissection activity](https://drive.google.com/drive/folders/14RBxLGuFhymsaof_7GtqLjuq0CJOkYps?usp=sharing){:target="_blank"}
+Mon Sep 13 |                    | -[intro/evidence/analysis ppt](https://drive.google.com/file/d/19qy723BgclSSJScAjoR58MBoCkKw6psO/view?usp=sharing){:target="_blank"} <br> - [intro/evidence/analysis activity](https://drive.google.com/drive/folders/17yd7n0b8yNOyR-yF_F-pEt3NxjlPudhy?usp=sharing){:target="_blank"} <br> - [quickwrite 4](quickwrite-4){:target="_blank"} <br> - discussion/Q\&A
+Wed Sep 15 | - [Williams 3 & 4 exercises](https://drive.google.com/file/d/1p8PSuRQIDROxHc2tvOccEiJlwTbPg5z6/view?usp=sharing){:target="_blank"} (due 8am) <br> - read ["How Texas Teaches History"](https://www.nytimes.com/2015/10/22/opinion/how-texas-teaches-history.html?_r=2){:target="_blank"}   | - review of structure, intros, conclusions, thesis, evidence, analysis <br> - [paper dissection activity](https://drive.google.com/drive/folders/14RBxLGuFhymsaof_7GtqLjuq0CJOkYps?usp=sharing){:target="_blank"} <br> - discussion/Q\&A continued
 Fri Sep 17 | - revised intro/thesis/outline to Sakai Dropbox (due 8am)                   | - [workshop/peer review revised intro/thesis/outline](https://drive.google.com/drive/folders/1Zix-QerpvFzUtZrmMIodxqYHQLNRLcGU?usp=sharing){:target="_blank"} <br> - sign up for conferences for next week based on your grading group <br> [Prof. Esin](https://calendar.google.com/calendar/selfsched?sstoken=UUQ3VGNIY0NmVmROfGRlZmF1bHR8OTdlNGNiMGZhY2E0YTg0M2Y4M2NhZDQzNTRhOGU2NjU){:target="_blank"} OR [Prof. Ilton](https://calendar.google.com/calendar/selfsched?sstoken=UUNveWstTXNRSTVwfGRlZmF1bHR8ZmY1MDkyZTFiODRjZmE5ZjQ5MDkyYmM1OWE5ZDVmZmY)
 Sat Sep 18 | - deadline to visit [the writing center](https://www.hmc.edu/learning-programs/writing-center/){:target="_blank"} (due 5pm)                |
 Sun Sep 19 | - submit main essay draft to Sakai Dropbox (due 5pm)  <br> [main essay formatting template](https://docs.google.com/document/d/1DsDkOeXltlokmx3_XUStXO1D9uPS-GZh/edit?usp=sharing&ouid=117002842337913012603&rtpof=true&sd=true){:target="_blank"} <br> [reminder of Main essay prompt](https://drive.google.com/file/d/1C8y99PBMEkX5MU0RmiZu4O7OyM5kCflG/view?usp=sharing){:target="_blank"} <br> [some inspiration](https://drive.google.com/file/d/1xrrn85Xf6t5mpMU60a01UfSbtLcpk9Ly/view?usp=sharing){:target="_blank"}                |
 
-###### To-do list for week 3
-
-- evidence and analysis video lesson 
-- evidence and analysis questions (what's wrong with this paragraph?)
-- pptx file on structure, intros, conclusions, thesis, evidence, analysis (can't find this from last year?)
-  
