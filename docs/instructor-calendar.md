@@ -41,6 +41,21 @@ Sat Sep 18 | - deadline to visit [the writing center](https://www.hmc.edu/learni
 Sun Sep 19 | - submit main essay draft to Sakai Dropbox (due 5pm)  <br> [main essay formatting template](https://docs.google.com/document/d/1DsDkOeXltlokmx3_XUStXO1D9uPS-GZh/edit?usp=sharing&ouid=117002842337913012603&rtpof=true&sd=true){:target="_blank"} <br> [reminder of Main essay prompt](https://drive.google.com/file/d/1C8y99PBMEkX5MU0RmiZu4O7OyM5kCflG/view?usp=sharing){:target="_blank"} <br> [some inspiration ("Shitty First Drafts" by A. Lamott)](https://drive.google.com/file/d/1xrrn85Xf6t5mpMU60a01UfSbtLcpk9Ly/view?usp=sharing){:target="_blank"}                |
 
 <br>
+<hr style="color:black;background-color:#EAAA00;height:5px">
+<br>
+
+### Week 4
+
+Date       | Due Outside Class | In-Class Activities 
+-----------|-------------------|-------------------
+Mon Sep 20 |                   | - [Zoom Link for today's class](https://hmc-edu.zoom.us/j/91822065151?pwd=MzlDOXUzYmNBZGRQUm9UVm9iT0Fpdz09){:target="_blank"} <br> - [Williams 3 & 4.pdf](https://drive.google.com/file/d/1uyXjzC7zfshdWHO_1zmczqEhcTbhlAFL/view?usp=sharing){:target="_blank"} <br> - [Williams Group Exercises](https://drive.google.com/drive/folders/1HZL2gX3wg4FgxRSjinP_CoxiQJBvZqe1?usp=sharing){:target="_blank"}
+Wed Sep 22 |                   | No class -- conferences held outside class
+Fri Sep 24 | - [Williams 5, 6, 9 exercises](https://drive.google.com/file/d/1fmt-GsCgt6z41KZmVJSSloYXLBD72Lg1/view?usp=sharing){:target="_blank"} (due 8am)                   | - [Williams 5, 6, 9 review](https://drive.google.com/file/d/1-drGPyjcjMNeQwIq-quwjJmKVe4YHbR4/view?usp=sharing){:target="_blank"} <br> - [Williams 5, 6, 9 partner activity](https://drive.google.com/drive/folders/1jSz-4H_mU58wZ53XbjrPvzAyU7dnZ8HT?usp=sharing){:target="_blank"}
+Sun Sep 26 | Revision 1 Due in Sakai Dropbox by 5pm | 
+
+
+
+<br>
 
 <br>
 
