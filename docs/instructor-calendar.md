@@ -53,6 +53,19 @@ Wed Sep 22 |                   | No class -- conferences held outside class
 Fri Sep 24 | - [Williams 5, 6, 9 exercises](https://drive.google.com/file/d/1fmt-GsCgt6z41KZmVJSSloYXLBD72Lg1/view?usp=sharing){:target="_blank"} (due 8am)                   | - [Williams 5, 6, 9 review](https://drive.google.com/file/d/1-drGPyjcjMNeQwIq-quwjJmKVe4YHbR4/view?usp=sharing){:target="_blank"} <br> - [Williams 5, 6, 9 partner activity](https://drive.google.com/drive/folders/1jSz-4H_mU58wZ53XbjrPvzAyU7dnZ8HT?usp=sharing){:target="_blank"}
 Sun Sep 26 | Revision 1 Due in Sakai Dropbox by 5pm | 
 
+<br>
+<hr style="color:black;background-color:#EAAA00;height:5px">
+<br>
+
+### Week 5
+
+Date       | Due Outside Class | In-Class Activities 
+-----------|-------------------|-------------------
+Mon Sep 27 |                   | - [intro to peer review](https://drive.google.com/file/d/1wcWZOayT5vJzpK2uVjQNsZKH21BSJaJs/view?usp=sharing){:target="_blank"} <br> - [peer review groups & instructions](https://docs.google.com/document/d/1b7PT22Vx1hwedD6NyDOop_GSc7rnbG08lOXtjvL-kwE/edit?usp=sharing){:target="_blank"} <br> - [peer review protocol](https://docs.google.com/document/d/1Vhp_dCH-xmvJjCKUQgxgrI2UimTeB2fU/edit?usp=sharing&ouid=117002842337913012603&rtpof=true&sd=true){:target="_blank"}
+Tue Sep 28 | - 2x2 Peer Reviews due by 11:59 pm | 
+Wed Sep 29 |                   | - peer review debrief <br> - [Reverse Outline & prepare revision plan](https://docs.google.com/document/d/1XIFgvkWlfs8ZNX-c3OHUTi2HuxoQVxPHiNJz7n5W90g/edit?usp=sharing){:target="_blank"}
+Fri Oct 1 | - [Williams 7 & 8 Global Revision Exercise](https://docs.google.com/document/d/1Az6-_NkVSMc4iD3bwy2Mnfy97xYysH-p/edit?usp=sharing&ouid=117002842337913012603&rtpof=true&sd=true){:target="_blank"} (due by 8 am) | - [Writing Across the Curriculum Exercise](https://docs.google.com/document/d/1XrDQnw75VZW5HVwA1L6JxwGK3FTUUA4VngHPA03N4wQ/edit?usp=sharing){:target="_blank"} <br> - [Reflective Essay Prompt](https://drive.google.com/file/d/1-RKhXKFUR0dX6DRW0ohsSXVRyBxe-9UG/view?usp=sharing){:target="_blank}
+Sun Oct 3 | Revision 2 Due in Sakai Dropbox by 5pm | 
 
 
 <br>
