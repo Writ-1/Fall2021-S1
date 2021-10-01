@@ -67,9 +67,24 @@ Fri Oct 1 | - [Williams 7 & 8 Global Revision Exercise](https://docs.google.com/
 Sun Oct 3 | Revision 2 Due in Sakai Dropbox by 5pm | 
 
 
+
+<br>
+<hr style="color:black;background-color:#EAAA00;height:5px">
+<br>
+
+### Week 6
+
+Date       | Due Outside Class | In-Class Activities 
+-----------|-------------------|-------------------
+Mon Oct 4 |                    | - Outside Peer Review (meet with other Writ 1 Sections at outdoor Shan basement level)
+Wed Oct 6 |                    | - [Citation and Acknowledgements](https://drive.google.com/file/d/1XPeUJtegXZrUhnuNwnJTe0IDLQCz0fp-/view?usp=sharing){:target="_blank"} <br> - Introduce [portfolio instructions](portfolio){:target="_blank"}
+Fri Oct 8 | Reflective Essay due 8am | - peer review Reflective Essay
+
+
 <br>
 
 <br>
+
 
 <a id="bottom"></a>
 
