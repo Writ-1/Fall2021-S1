@@ -81,10 +81,32 @@ Wed Oct 6 |                    | - [Citation and Acknowledgements](https://drive
 Fri Oct 8 | Reflective Essay due 8am | - peer review Reflective Essay
 
 
+
+<br>
+<hr style="color:black;background-color:#EAAA00;height:5px">
+<br>
+
+### Week 7
+
+Date       | Due Outside Class | In-Class Activities 
+-----------|-------------------|-------------------
+Mon Oct 11 |                    | - Quickwrite: revision plan <br> - Writing work day
+Wed Oct 13 |                    | - Writing work day
+Fri Oct 15 | Final Portfolio Due 8am | - Course Debrief
+
+<br>
+
 <br>
 
 <br>
 
+<br>
+<br>
+
+<br>
+<br>
+
+<br>
 
 <a id="bottom"></a>
 

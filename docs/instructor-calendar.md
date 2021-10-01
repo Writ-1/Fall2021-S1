@@ -1,7 +1,6 @@
 # Instructor Calendar
 
 **Please note: this calendar is for instructor use only as a rough draft. If you are a student, this is not the actual course calendar. Please do not follow this.**
-
 [Jump to this week's content](#bottom)
 
 ### Week 1
@@ -26,9 +25,11 @@ Wed Sep 8  | - prepare discussion questions on chose case study (due 8am) <br> -
 Fri Sep 10 | - read the [Main essay prompt](https://drive.google.com/file/d/1C8y99PBMEkX5MU0RmiZu4O7OyM5kCflG/view?usp=sharing){:target="_blank"} (do this first) <br> - complete [Problem Statement/Thesis assignment](https://drive.google.com/file/d/1FVLPM5gJgb6qfJhDrOGD7P7dppSecQjc/view?usp=sharing){:target="_blank"} (due 8am) | - [SAFE thesis guidelines](https://drive.google.com/file/d/1rvpSbpqPo6z1wEXFEPPE6c66KNWU7V6I/view?usp=sharing){:target="_blank"} <br> - [thesis workshop activity](https://docs.google.com/document/d/1EXsiJWKJqJJCP9tb1uPbEsE9-acGCRm2nX5bvYW7Hbo/edit?usp=sharing){:target="_blank"} <br> - introduce [evidentiary outlines](https://drive.google.com/file/d/1WQSSfJ4xrkmIUYpvTNHsjk1KFFHw2xL9/view?usp=sharing){:target="_blank"}
 Sun Sep 12 | - complete [evidentiary outline assignment](https://docs.google.com/document/d/1pn3JIIe6gehscDlSuVVrucnjayNPyfMu/view){:target="_blank"} (due 5pm) |
 
+
 <br>
 <hr style="color:black;background-color:#EAAA00;height:5px">
 <br>
+
 
 ### Week 3
 
@@ -38,7 +39,7 @@ Mon Sep 13 |                    | -[intro/evidence/analysis ppt](https://drive.g
 Wed Sep 15 | - [Williams 3 & 4 exercises](https://drive.google.com/file/d/1p8PSuRQIDROxHc2tvOccEiJlwTbPg5z6/view?usp=sharing){:target="_blank"} (due 8am) <br> - read ["How Texas Teaches History"](https://drive.google.com/file/d/1P7PiB2fINCw-W2RuHgW5_EUPtMzYTXKt/view?usp=sharing){:target="_blank"}   | - review of structure, intros, conclusions, thesis, evidence, analysis <br> - [paper dissection activity](https://drive.google.com/drive/folders/14RBxLGuFhymsaof_7GtqLjuq0CJOkYps?usp=sharing){:target="_blank"} <br> - discussion/Q&A continued
 Fri Sep 17 | - revised intro/thesis/outline to Sakai Dropbox (due 8am)                   | - [workshop/peer review revised intro/thesis/outline](https://drive.google.com/drive/folders/1Zix-QerpvFzUtZrmMIodxqYHQLNRLcGU?usp=sharing){:target="_blank"} <br> - sign up for conferences for next week based on your grading group <br> [Prof. Esin](https://calendar.google.com/calendar/selfsched?sstoken=UUQ3VGNIY0NmVmROfGRlZmF1bHR8OTdlNGNiMGZhY2E0YTg0M2Y4M2NhZDQzNTRhOGU2NjU){:target="_blank"} OR [Prof. Ilton](https://calendar.google.com/calendar/selfsched?sstoken=UUNveWstTXNRSTVwfGRlZmF1bHR8ZmY1MDkyZTFiODRjZmE5ZjQ5MDkyYmM1OWE5ZDVmZmY)
 Sat Sep 18 | - deadline to visit [the writing center](https://www.hmc.edu/learning-programs/writing-center/){:target="_blank"} (due 5pm)                |
-Sun Sep 19 | - submit main essay draft to Sakai Dropbox (due 5pm)  <br> [main essay formatting template](https://docs.google.com/document/d/1DsDkOeXltlokmx3_XUStXO1D9uPS-GZh/edit?usp=sharing&ouid=117002842337913012603&rtpof=true&sd=true){:target="_blank"} <br> [reminder of Main essay prompt](https://drive.google.com/file/d/1C8y99PBMEkX5MU0RmiZu4O7OyM5kCflG/view?usp=sharing){:target="_blank"} <br> [some inspiration ("Shitty First Drafts" by A. Lamott)](https://drive.google.com/file/d/1xrrn85Xf6t5mpMU60a01UfSbtLcpk9Ly/view?usp=sharing){:target="_blank"}                |
+Sun Sep 19 | - submit main essay draft to Sakai Dropbox (due 5pm)  <br> [main essay formatting template](https://docs.google.com/document/d/1DsDkOeXltlokmx3_XUStXO1D9uPS-GZh/edit?usp=sharing&ouid=117002842337913012603&rtpof=true&sd=true){:target="_blank"} <br> [reminder of Main essay prompt](https://drive.google.com/file/d/1C8y99PBMEkX5MU0RmiZu4O7OyM5kCflG/view?usp=sharing){:target="_blank"} <br> [some inspiration ("Shitty First Drafts" by A. Lamott) ](https://drive.google.com/file/d/1xrrn85Xf6t5mpMU60a01UfSbtLcpk9Ly/view?usp=sharing){:target="_blank"}                |
 
 <br>
 <hr style="color:black;background-color:#EAAA00;height:5px">
@@ -53,6 +54,7 @@ Wed Sep 22 |                   | No class -- conferences held outside class
 Fri Sep 24 | - [Williams 5, 6, 9 exercises](https://drive.google.com/file/d/1fmt-GsCgt6z41KZmVJSSloYXLBD72Lg1/view?usp=sharing){:target="_blank"} (due 8am)                   | - [Williams 5, 6, 9 review](https://drive.google.com/file/d/1-drGPyjcjMNeQwIq-quwjJmKVe4YHbR4/view?usp=sharing){:target="_blank"} <br> - [Williams 5, 6, 9 partner activity](https://drive.google.com/drive/folders/1jSz-4H_mU58wZ53XbjrPvzAyU7dnZ8HT?usp=sharing){:target="_blank"}
 Sun Sep 26 | Revision 1 Due in Sakai Dropbox by 5pm | 
 
+
 <br>
 <hr style="color:black;background-color:#EAAA00;height:5px">
 <br>
@@ -64,12 +66,47 @@ Date       | Due Outside Class | In-Class Activities
 Mon Sep 27 |                   | - [intro to peer review](https://drive.google.com/file/d/1wcWZOayT5vJzpK2uVjQNsZKH21BSJaJs/view?usp=sharing){:target="_blank"} <br> - [peer review groups & instructions](https://docs.google.com/document/d/1b7PT22Vx1hwedD6NyDOop_GSc7rnbG08lOXtjvL-kwE/edit?usp=sharing){:target="_blank"} <br> - [peer review protocol](https://docs.google.com/document/d/1Vhp_dCH-xmvJjCKUQgxgrI2UimTeB2fU/edit?usp=sharing&ouid=117002842337913012603&rtpof=true&sd=true){:target="_blank"}
 Tue Sep 28 | - 2x2 Peer Reviews due by 11:59 pm | 
 Wed Sep 29 |                   | - peer review debrief <br> - [Reverse Outline & prepare revision plan](https://docs.google.com/document/d/1XIFgvkWlfs8ZNX-c3OHUTi2HuxoQVxPHiNJz7n5W90g/edit?usp=sharing){:target="_blank"}
-Fri Oct 1 | - [Williams 7 & 8 Global Revision Exercise](https://docs.google.com/document/d/1Az6-_NkVSMc4iD3bwy2Mnfy97xYysH-p/edit?usp=sharing&ouid=117002842337913012603&rtpof=true&sd=true){:target="_blank"} (due by 8 am) | - [Writing Across the Curriculum Exercise](https://docs.google.com/document/d/1XrDQnw75VZW5HVwA1L6JxwGK3FTUUA4VngHPA03N4wQ/edit?usp=sharing){:target="_blank"} <br> - [Reflective Essay Prompt](https://drive.google.com/file/d/1-RKhXKFUR0dX6DRW0ohsSXVRyBxe-9UG/view?usp=sharing){:target="_blank}
+Fri Oct 1 | - [Williams 7 & 8 Global Revision Exercise](https://docs.google.com/document/d/1Az6-_NkVSMc4iD3bwy2Mnfy97xYysH-p/edit?usp=sharing&ouid=117002842337913012603&rtpof=true&sd=true){:target="_blank"} (due by 8 am) | - [Gopen and Swan.pdf](https://drive.google.com/file/d/1ZK6-awgwoIALLK1zf5d9E_PsrcDaNy9D/view?usp=sharing){:target="_blank"} <br> - [Writing Across the Curriculum Exercise](https://docs.google.com/document/d/1XrDQnw75VZW5HVwA1L6JxwGK3FTUUA4VngHPA03N4wQ/edit?usp=sharing){:target="_blank"} <br> - [Reflective Essay Prompt](https://drive.google.com/file/d/1-RKhXKFUR0dX6DRW0ohsSXVRyBxe-9UG/view?usp=sharing){:target="_blank"}
 Sun Oct 3 | Revision 2 Due in Sakai Dropbox by 5pm | 
 
 
+
+<br>
+<hr style="color:black;background-color:#EAAA00;height:5px">
 <br>
 
+### Week 6
+
+Date       | Due Outside Class | In-Class Activities 
+-----------|-------------------|-------------------
+Mon Oct 4 |                    | - Outside Peer Review (meet with other Writ 1 Sections at outdoor Shan basement level)
+Wed Oct 6 |                    | - [Citation and Acknowledgements](https://drive.google.com/file/d/1XPeUJtegXZrUhnuNwnJTe0IDLQCz0fp-/view?usp=sharing){:target="_blank"} <br> - Introduce [portfolio instructions](portfolio){:target="_blank"}
+Fri Oct 8 | Reflective Essay due 8am | - peer review Reflective Essay
+
+
+
+<br>
+<hr style="color:black;background-color:#EAAA00;height:5px">
+<br>
+
+### Week 7
+
+Date       | Due Outside Class | In-Class Activities 
+-----------|-------------------|-------------------
+Mon Oct 11 |                    | - Quickwrite: revision plan <br> - Writing work day
+Wed Oct 13 |                    | - Writing work day
+Fri Oct 15 | Final Portfolio Due 8am | - Course Debrief
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+<br>
+
+<br>
 <br>
 
 <br>
