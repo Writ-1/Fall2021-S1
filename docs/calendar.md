@@ -76,7 +76,7 @@ Sun Oct 3 | Revision 2 Due in Sakai Dropbox by 5pm |
 
 Date       | Due Outside Class | In-Class Activities 
 -----------|-------------------|-------------------
-Mon Oct 4 |                    | - Outside Peer Review (meet with other Writ 1 Sections at outdoor Shan basement level)
+Mon Oct 4 |                    | - Outside Peer Review (meet with other Writ 1 Sections at outdoor Shan basement level) <br> - [Peer Review Partner List](https://drive.google.com/file/d/1LNi87W34Cg7qiUc0FTtgg2pA9vdyNoL_/view?usp=sharing){:target="_blank"} <br> - [Peer Review Guide.docx](https://docs.google.com/document/d/155ERv7JnW-rmKGaoxUBuWAyysOd7zRpz/edit?usp=sharing&ouid=117002842337913012603&rtpof=true&sd=true){:target="_blank"}
 Wed Oct 6 |                    | - [Citation and Acknowledgements](https://drive.google.com/file/d/1XPeUJtegXZrUhnuNwnJTe0IDLQCz0fp-/view?usp=sharing){:target="_blank"} <br> - Introduce [portfolio instructions](portfolio){:target="_blank"}
 Fri Oct 8 | Reflective Essay due 8am | - peer review Reflective Essay
 
